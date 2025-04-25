@@ -1,7 +1,7 @@
 /* Main Styles for Blast Furnace Gas Calculator */
 :root {
-    --primary-color: #2c3e50;
-    --secondary-color: #e74c3c;
+    --primary-color:rgb(20, 21, 55);
+    --secondary-color: #479832;
     --accent-color: #3498db;
     --light-color: #ecf0f1;
     --dark-color: #34495e;
